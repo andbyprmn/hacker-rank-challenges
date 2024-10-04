@@ -50,7 +50,7 @@ public class 2DArrayDS {
             arr.add(arrRowItems);
         }
 
-        int result = com.indolotte.ifc.AppTest.hourglassSum(arr);
+        int result = 2DArrayDS.hourglassSum(arr);
 
         System.out.println(String.valueOf(result));
 
